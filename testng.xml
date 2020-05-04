@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Regression Suite">
+<test name="CheckoutProcess">
+<classes>
+<class name="testScenarios.VerifyEntireCheckoutProcess"></class>
+</classes>
+</test>
+</suite>
